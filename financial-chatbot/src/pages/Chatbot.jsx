@@ -26,7 +26,7 @@ const Chatbot = () => {
       <div className="chatbot-container">
         {/* Chatbot Section */}
         <div className="chatbot">
-          <h1>Chat with our Finance Bot</h1>
+          <h1>Chat with FINSAGE</h1>
           <p>Start a conversation with the bot to get financial advice and insights.</p>
           {/* Chat Window */}
           <div className="chat-window">
